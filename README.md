@@ -10,6 +10,9 @@ Tool otomatisasi untuk mengunduh video dan audio dari berbagai platform sosial m
 * **Clipboard Monitor:** Otomatis mendeteksi link yang Anda copy.
 * **Format Selector:** Pilih antara Video (MP4) atau Audio (MP3).
 * **Tanpa Iklan:** Proses download bersih langsung dari terminal.
+* <p align="center">
+  <img src="Ss.jpg" width="350" title="Tampilan AmarProject">
+</p>
 
 ## 📥 Instalasi
 ```bash
